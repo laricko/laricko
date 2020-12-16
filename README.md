@@ -1,6 +1,6 @@
 # **Hello.**
 
-My Name is Larry and I am trying to be good SOE
+My Name is Larry and I am trying to be good software engineer
 
 Programming Languages I use :
 
