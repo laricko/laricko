@@ -2,10 +2,9 @@
 
 My Name is Larry and I am trying to be good software engineer
 
-Programming Languages I use :
+Programming Language I use :
 
  - ***Python*** 
- - ***Java***
 
 ##  **Some links**:
 Mail: ttttmmm6432@gmail.com
