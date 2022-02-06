@@ -25,5 +25,7 @@ My skills stack:
 
 Mail: ttttmmm6432@gmail.com
 Codewars: https://www.codewars.com/users/chvmq
+https://www.codewars.com/users/chvmq/badges/large
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/chvmq) 
 
 Telegram: @chvmq
