@@ -10,4 +10,4 @@ Programming Language I use :
 
 Codewars: [![codewars](https://www.codewars.com/users/chvmq/badges/large)](https://www.codewars.com/users/chvmq) 
 
-Telegram: @chvmq
+Telegram: @regularsizedman
