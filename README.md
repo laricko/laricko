@@ -1,3 +1,6 @@
-Telegram: [click](https://t.me/regularsizedman)
+![LeetCode Stats](https://leetcode.card.workers.dev/larick?theme=forest&font=source_code_pro&extension=null)
 
-StackOverFlow: [click](https://stackoverflow.com/users/14486187/larick)
+[Telegram](https://t.me/regularsizedman)
+
+[StackOverFlow](https://stackoverflow.com/users/14486187/larick)
+
