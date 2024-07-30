@@ -1,6 +1,7 @@
 ![LeetCode Stats](https://leetcode.card.workers.dev/larick?theme=forest&font=source_code_pro&extension=null)
 
-### Fast contact me here:
+### Contact:
+[Linkedin](https://www.linkedin.com/in/larry-tsur/)
 [Telegram](https://t.me/regularsizedman)
 
 
