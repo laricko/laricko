@@ -2,6 +2,7 @@
 
 ### Contact:
 [Linkedin](https://www.linkedin.com/in/larry-tsur/)
+
 [Telegram](https://t.me/regularsizedman)
 
 
