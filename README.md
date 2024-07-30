@@ -1,34 +1,35 @@
 ![LeetCode Stats](https://leetcode.card.workers.dev/larick?theme=forest&font=source_code_pro&extension=null)
 
-### Contact:
+## Contact:
 [Linkedin](https://www.linkedin.com/in/larry-tsur/)
 
 [Telegram](https://t.me/regularsizedman)
 
 
 
-### Programming languages
+## Stack
+**Programming languages**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ts,js" />
   </a>
 </p>
 
-### Frameworks
+**Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,fastapi,react,nextjs" />
   </a>
 </p>
 
-### Databases
+**Databases**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch,redis,sqlite" />
   </a>
 </p>
 
-### Other technologies
+**Other technologies**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,grafana,linux,nginx,sentry,tailwind,html,css" />
@@ -36,4 +37,5 @@
 </p>
 
 
+## stackoverflow profile
 [StackOverFlow](https://stackoverflow.com/users/14486187/larick)
