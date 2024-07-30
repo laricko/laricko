@@ -6,7 +6,7 @@
 
 
 ### Technologies I use
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ts,js" />
   </a>
