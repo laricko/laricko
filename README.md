@@ -1,5 +1,3 @@
-![LeetCode Stats](https://leetcode.card.workers.dev/larick?theme=forest&font=source_code_pro&extension=null)
-
 ## Contact:
 [Linkedin](https://www.linkedin.com/in/larry-tsur/)
 
@@ -39,3 +37,6 @@
 
 ## stackoverflow profile
 [StackOverFlow](https://stackoverflow.com/users/14486187/larick)
+
+## leetcode profile
+[Leetcode](https://leetcode.com/u/larick/)
