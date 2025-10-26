@@ -1,9 +1,11 @@
 ## Contact:
-[Linkedin](https://www.linkedin.com/in/larry-tsur/)
-
 [Telegram](https://t.me/regularsizedman)
 
+## stackoverflow profile
+[StackOverFlow](https://stackoverflow.com/users/14486187/larick)
 
+## leetcode profile
+[Leetcode](https://leetcode.com/u/larick/)
 
 ## Stack
 **Programming languages**
@@ -35,8 +37,3 @@
 </p>
 
 
-## stackoverflow profile
-[StackOverFlow](https://stackoverflow.com/users/14486187/larick)
-
-## leetcode profile
-[Leetcode](https://leetcode.com/u/larick/)
