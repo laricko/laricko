@@ -1,39 +1,49 @@
-## Contact:
+Links:
 [Telegram](https://t.me/regularsizedman)
-
-## stackoverflow profile
 [StackOverFlow](https://stackoverflow.com/users/14486187/larick)
-
-## leetcode profile
 [Leetcode](https://leetcode.com/u/larick/)
 
-## Stack
-**Programming languages**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js" />
-  </a>
-</p>
+# Проекты
 
-**Frameworks**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,react,nextjs" />
-  </a>
-</p>
+Сейчас я развиваю свой B2B SaaS Internal Developer Platform типа проект, который позволяет командам с микросервисной архитектурой легко управлять своими сервисами, автоматизировать процессы и улучшать взаимодействие между командами.
 
-**Databases**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch,redis,sqlite" />
-  </a>
-</p>
+### Темплейты
 
-**Other technologies**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,grafana,linux,nginx,sentry,tailwind,html,css" />
-  </a>
-</p>
+- https://github.com/laricko/rag-fastapi-template
+Шаблон проекта для построения RAG-систем на FastAPI с поддержкой embeddings, векторного поиска и интеграции LLM.
+
+- https://github.com/laricko/Rabbitmq-showcase-python
+Демонстрационный проект работы с RabbitMQ и Python среди микросервисов: очереди, продюсеры, консьюмеры и обмен сообщениями между сервисами.
 
 
+# Библиотеки
+- https://github.com/laricko/django-salesman
+Библиотека для построения e-commerce и продаж на Django: товары, заказы, клиенты и бизнес-логика продаж.
+- https://github.com/laricko/sqlalchemy-llm-agent
+LLM-агент, который умеет работать с базой данных через SQLAlchemy: анализировать схему, формировать SQL-запросы и извлекать данные по текстовым запросам.
+- https://github.com/laricko/pytest-llm-agent
+LLM-агент, который генерирует и обновляет автотесты для сервисов на Python с использованием pytest на основе описания API и бизнес-логики.
+
+
+### Старые или экспериментальные проекты
+
+- https://github.com/laricko/phone-address
+Простой сервис для хранения и управления связками "телефон - адрес", с возможностью добавления, поиска и обновления записей.
+
+- https://github.com/laricko/compress-picture
+Веб-сервис для сжатия изображений: загрузка файлов, серверная обработка и получение оптимизированных картинок.
+
+- https://github.com/laricko/what-cook
+Сервис подбора рецептов и идей для приготовления еды на основе ингредиентов и предпочтений пользователя.
+
+- https://github.com/laricko/wallet-service
+Backend цифрового кошелька с балансами, транзакциями и базовой финансовой логикой.
+
+- https://github.com/laricko/inventor_accounting
+Система учёта товаров и склада с хранением позиций, количеств и простой бухгалтерией.
+
+- https://github.com/laricko/knowledge-cards-backend
+Backend для приложения с карточками знаний (flashcards) для обучения и повторения информации.
+
+- https://github.com/laricko/zen-chain-habit-tracker
+Телеграм бот трекер привычек, где каждое действие записывается в цепочку, формируя неизменяемую историю.
