@@ -1,6 +1,8 @@
 Links:
 [Telegram](https://t.me/regularsizedman)
+
 [StackOverFlow](https://stackoverflow.com/users/14486187/larick)
+
 [Leetcode](https://leetcode.com/u/larick/)
 
 # Проекты
@@ -16,7 +18,7 @@ Links:
 Демонстрационный проект работы с RabbitMQ и Python среди микросервисов: очереди, продюсеры, консьюмеры и обмен сообщениями между сервисами.
 
 
-# Библиотеки
+### Библиотеки
 - https://github.com/laricko/django-salesman
 Библиотека для построения e-commerce и продаж на Django: товары, заказы, клиенты и бизнес-логика продаж.
 - https://github.com/laricko/sqlalchemy-llm-agent
