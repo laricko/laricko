@@ -23,6 +23,9 @@ LLM-агент, который генерирует и обновляет авт
 - https://github.com/laricko/Rabbitmq-showcase-python
 Демонстрационный проект работы с RabbitMQ и Python среди микросервисов: очереди, продюсеры, консьюмеры и обмен сообщениями между сервисами.
 
+- https://github.com/laricko/nextjs-auth-template
+Шаблон фронтенда с auth логикой на куках.
+
 - https://github.com/laricko/email-oauth-fastapi-template
 Шаблон бекенда для работы с OAuth-провайдерами, извлечения писем и хранения их в базе данных.
 
