@@ -7,10 +7,15 @@ Links:
 [Leetcode](https://leetcode.com/u/larick/)
 
 ### Библиотеки
+- https://github.com/laricko/prompt-guard
+Библиотека для защиты от prompt‑injection и небезопасных запросов
+
 - https://github.com/laricko/django-salesman
 Библиотека для построения e-commerce и продаж на Django: товары, заказы, клиенты и бизнес-логика продаж.
+
 - https://github.com/laricko/sqlalchemy-llm-agent
 LLM-агент, который умеет работать с базой данных через SQLAlchemy: анализировать схему, формировать SQL-запросы и извлекать данные по текстовым запросам.
+
 - https://github.com/laricko/pytest-llm-agent
 LLM-агент, который генерирует и обновляет автотесты для сервисов на Python с использованием pytest на основе описания API и бизнес-логики.
 
